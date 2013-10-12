@@ -1,0 +1,4 @@
+trrsywx:
+    resource: "@trrsywxBundle/Resources/config/routing.yml"
+    prefix:   /
+
